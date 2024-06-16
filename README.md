@@ -56,7 +56,7 @@ table = ''.maketrans(upperLetter, keys)
 ```
 # 印出結果
 ```
-print(decode.translate(table))
+print("加密過後結果為:" + decode.translate(table))
 ```
 
 # 程式碼和結果
