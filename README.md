@@ -16,4 +16,4 @@
 2.輸入一個需要加密的字串
 
 # 程式碼和結果
-[![image](https://github.com/rolocytgh/PyFinal/assets/113405730/f7410321-9580-4aff-9f35-c8888f4ddcc1)](https://github.com/rolocytgh/PyFinal/blob/main/images/338565194-f7410321-9580-4aff-9f35-c8888f4ddcc1.png)
+[![image]([https://github.com/rolocytgh/PyFinal/assets/113405730/f7410321-9580-4aff-9f35-c8888f4ddcc1](https://github.com/Arno930610/11128004-/blob/main/11128004-%E6%9C%9F%E6%9C%AB.png))]
